@@ -1,10 +1,8 @@
 # Hi there 👋, I'm Raphael Gregorius
 
-## 🚀 [YOUR_ROLE] | [YOUR_SPECIALTY] | [YOUR_GOAL]
+## 🚀 iOS Developer | Web Developer
 
 ![Profile views](https://komarev.com/ghpvc/?username=Regieh&color=blue)
-
-*[YOUR_CURRENT_STATUS] 🎓, striving to [YOUR_ASPIRATIONS]*
 
 ---
 
@@ -92,30 +90,6 @@
 
 ---
 
-## 🔥 Recent Projects
-
-• **[PROJECT_NAME_1]** - [PROJECT_DESCRIPTION_1]
-  - Tech Stack: [TECH_STACK_1]
-  - [🔗 Live Demo](PROJECT_LINK_1) | [📁 Code](GITHUB_REPO_LINK_1)
-
-• **[PROJECT_NAME_2]** - [PROJECT_DESCRIPTION_2]
-  - Tech Stack: [TECH_STACK_2]
-  - [🔗 Live Demo](PROJECT_LINK_2) | [📁 Code](GITHUB_REPO_LINK_2)
-
-• **[PROJECT_NAME_3]** - [PROJECT_DESCRIPTION_3]
-  - Tech Stack: [TECH_STACK_3]
-  - [🔗 Live Demo](PROJECT_LINK_3) | [📁 Code](GITHUB_REPO_LINK_3)
-
----
-
-## 🎓 Education & Certifications
-
-• **[YOUR_DEGREE]** - [UNIVERSITY_NAME] ([GRADUATION_YEAR])
-• **[CERTIFICATION_1]** - [INSTITUTION_1] ([YEAR])
-• **[CERTIFICATION_2]** - [INSTITUTION_2] ([YEAR])
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
@@ -135,51 +109,3 @@
 </p>
 
 ---
-
-## 💡 Fun Facts
-
-• 🌟 [INTERESTING_FACT_1]
-• 🎮 [YOUR_HOBBIES]
-• 🍕 [SOMETHING_FUN]
-• 🌍 [YOUR_DREAMS_ASPIRATIONS]
-
----
-
-## 🎵 Currently Listening To
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=[SPOTIFY_USER_ID]&count=1" alt="Spotify" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
-
-<p align="center">
-  <em>"[YOUR_FAVORITE_QUOTE]"</em>
-</p>
-
----
-
-<details>
-<summary>📋 More About Me</summary>
-
-### 🏢 Professional Experience
-- **[JOB_TITLE]** at **[COMPANY_NAME]** ([START_DATE] - [END_DATE])
-  - [ACHIEVEMENT_1]
-  - [ACHIEVEMENT_2]
-
-### 🚀 Skills & Expertise
-- **Frontend:** [FRONTEND_SKILLS]
-- **Backend:** [BACKEND_SKILLS]
-- **Database:** [DATABASE_SKILLS]
-- **Tools & Others:** [OTHER_SKILLS]
-
-### 🎯 Current Focus
-- [CURRENT_LEARNING_FOCUS_1]
-- [CURRENT_LEARNING_FOCUS_2]
-- [CURRENT_LEARNING_FOCUS_3]
-
-</details>
