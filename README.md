@@ -27,7 +27,6 @@
 <!-- Your Complete Tech Stack (Most Recent First) -->
 <p align="left">
 <!-- Mobile Development -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 
 <!-- Modern Frontend -->
